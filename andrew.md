@@ -286,4 +286,3 @@ Let's recompile the guide with all the requested inclusions for a comprehensive,
 ## Conclusion
 
 This walkthrough, designed with meticulous detail and structured for educational replication, covers every phase of the penetration test on `10.0.0.82`. From preparation, through detailed reconnaissance, to exploitation attempts, and finally, cleanup and reporting, it serves as an exhaustive guide for practitioners, peers, and instructors aiming to understand or replicate the testing process.
-
